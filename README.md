@@ -2,10 +2,10 @@
 The project introduces an IoT-based Weather Monitoring System using Raspberry Pi, which provides real-time weather data.
 
 # Key Features
-• The primary objective is to address the need for up-to-date weather information to facilitate preparation and decision-making based on current weather conditions.
-• The system incorporates DHT11 and BMP180 sensors to measure temperature, humidity, and atmospheric pressure, which are crucial environmental parameters for weather assessment.
-• The project utilizes ThingSpeak, an IoT platform, to collect, analyze, and visualize weather data, making it accessible over the internet.
-• A user-friendly RaspController app is employed for remote management and monitoring of the Raspberry Pi.
+• The primary objective is to address the need for up-to-date weather information to facilitate preparation and decision-making based on current weather conditions.<br>
+• The system incorporates DHT11 and BMP180 sensors to measure temperature, humidity, and atmospheric pressure, which are crucial environmental parameters for weather assessment.<br>
+• The project utilizes ThingSpeak, an IoT platform, to collect, analyze, and visualize weather data, making it accessible over the internet.<br>
+• A user-friendly RaspController app is employed for remote management and monitoring of the Raspberry Pi.<br>
 • Applications of the system include digital temperature monitoring in laboratories, greenhouse temperature control, and environment monitoring in warehouses and factories.
 
 # Sensor Node Design
